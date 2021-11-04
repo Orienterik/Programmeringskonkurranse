@@ -1,6 +1,6 @@
 # Programmeringskonkurranse
 
-## Oppgave 1 - Karpekars tall
+## Oppgave 1 - Kaprekars tall
 
 Start med et tall mellom 1 og 9999 der ikke alle siffer er like. I denne oppgaven skal alle tall ha fire siffer så fyll på med 0 hvis det trengs (f. eks. 11 blir 0011 og har dermed ikke alle siffer like). Sorter de fire sifferene i synkende og i stigende rekkefølge og subtrahere disse to tallene for å få et nytt tall. Hvis man gjentar dette lenge nok kommer man alltid til 6174 som er det eneste tallet som gir seg selv. Dette tallet kalles Kaprekars tall.
 
